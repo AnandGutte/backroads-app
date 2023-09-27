@@ -394,5 +394,3 @@ package.json
     "eject": "react-scripts eject"
   },
 ```
-
-- END
